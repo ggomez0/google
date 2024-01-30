@@ -14,7 +14,7 @@ export default function Home() {
 
 </div>
     <div className={`flex  flex-col items-center justify-center p-24 `}>
-      <Image alt="Logo Google" src="/googlelogo.webp" width={290} height={500}/>
+      <Image alt="Logo Google" src="/googlelogo.webp" width={290} height={98}/>
       <input className="rounded-3xl lg:w-[650px] sm:w-[500px] w-[300px]  mt-8 mb-4 p-4 h-12 bg-transparent border focus:bg-[#282a2c] text-white"/>
     <div>
       <button className="pl-4 pr-4 pt-2 pb-2 m-2 bg-[#303134] hover:border">Google Search</button>
