@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import GoogleApps from "./googleapps";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +10,6 @@ export default function Home() {
 
       <span className="mr-4">Gmail</span>
       <span>Images</span>
-      {/* <GoogleApps/> */}
       <div className="border bg-black rounded-full w-8 h-8 ml-8 text-center">gg</div>
 
 </div>
